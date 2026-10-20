@@ -1,0 +1,6 @@
+{
+  "name": "ArbaConnect - CV Arba'in Logistics ERP",
+  "description": "Enterprise distribution logistics, real-time FEFO stock ledger, B2B CRM, and field sales PWA for CV Arba'in Solo Raya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
